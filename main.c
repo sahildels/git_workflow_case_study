@@ -5,20 +5,24 @@ Initial Code()
 =====
 =====
 }
-<<<<<<< HEAD
+
 FeatureA()
 {
 =====
 =====
 }
 
-=======
-
 featureB()
 {
 ====
 ====
 }
->>>>>>> featureB
+
+featureC()
+{
+====
+====
+====
+}
 }
 
