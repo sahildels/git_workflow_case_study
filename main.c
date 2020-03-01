@@ -6,6 +6,7 @@ Initial Code()
 =====
 }
 
+
 Release Code()
 {
 
@@ -15,8 +16,14 @@ every month
 =====
 ====
 }
+Hotfix code()
+{
+code for hotfix for emergency release
 
+====
+====
 
+}
 
 FeatureA()
 {
