@@ -5,6 +5,7 @@ Initial Code()
 =====
 =====
 }
+
 Release Code()
 {
 
@@ -15,5 +16,27 @@ every month
 ====
 }
 
+
+
+FeatureA()
+{
+=====
+=====
 }
+
+featureB()
+{
+====
+====
+}
+
+featureC()
+{
+====
+====
+====
+}
+
+}
+
 
